@@ -6,7 +6,7 @@ plugin_package = "octoprint_klipper"
 
 plugin_name = "OctoKlipper"
 
-plugin_version = "0.2.5"
+plugin_version = "0.2.6"
 
 plugin_description = """A plugin for OctoPrint to configure,control and monitor the Klipper 3D printer software."""
 
@@ -14,7 +14,7 @@ plugin_author = "Martin Muehlhaeuser"
 
 plugin_author_email = "github@mmone.de"
 
-plugin_url = "http://blog.mmone.de/2018/02/05/octoprint-plugin-for-klipper/"
+plugin_url = "https://github.com/pusewicz/OctoprintKlipperPlugin"
 
 plugin_license = "AGPLv3"
 
